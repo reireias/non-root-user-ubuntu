@@ -22,6 +22,7 @@ $ sudo su
   - make
   - git
   - vim
+  - locales
   - python3
   - python3-pip
   - python3-apt
