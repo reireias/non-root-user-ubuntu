@@ -13,3 +13,16 @@ $ docker run --rm -it -u ubuntu reireias/non-root-user-ubuntu
 # you can sudo with no password
 $ sudo su
 ```
+
+## installed packages
+
+- apt
+  - sudo
+  - curl
+  - make
+  - vim
+  - python3
+  - python3-pip
+  - python3-apt
+- pip
+  - ansible
