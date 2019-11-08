@@ -20,9 +20,11 @@ $ sudo su
   - sudo
   - curl
   - make
+  - git
   - vim
   - python3
   - python3-pip
   - python3-apt
+  - ruby
 - pip
   - ansible
